@@ -154,6 +154,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+dagster_university/tmpk2482qxn/
+
+dagster_university/dagster_university.egg-info/
+dagster_university/data/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
